@@ -1,5 +1,5 @@
 # Netcore
-I have retrieved data from https://doc.linkurio.us/ogma/latest/resources/files/solarCity.json, and tried to represent this data as a graph, and the relevan code can be found in `data/Graph.kt` file. Due to time-shortage was not able to completely represent everything, but the created graph will help reduce the work later.
+I have retrieved data from https://doc.linkurio.us/ogma/latest/resources/files/solarCity.json, and tried to represent this data as a graph, and the relevan code can be found in [**Graph.kt**](https://github.com/kartik-pant-23/netcore-app/blob/master/app/src/main/java/com/example/netcore/data/Graph.kt) file. Due to time-shortage was not able to completely represent everything, but the created graph will help reduce the work later.
 
 Tried representing relationship(edges) among investors and companies as `Invested At` and `Got Investment From` inside the app.
 
