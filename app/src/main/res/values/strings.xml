@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Netcore</string>
+    <string name="label_nodes">Investors &amp; Companies</string>
+    <string name="label_details">Details</string>
+</resources>

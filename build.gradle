@@ -1,0 +1,23 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    ext {
+        coroutineVersion = '1.5.2'
+        lifecycleVersion = '2.4.0'
+        retrofitVersion = '2.9.0'
+        moshiVersion = '1.13.0'
+        navVersion = '2.3.5'
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:7.0.2"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10"
+        classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$navVersion"
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

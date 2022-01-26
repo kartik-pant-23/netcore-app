@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0CCBD7</color>
+    <color name="primary_dark">#EFEFEF</color>
+    <color name="accent_color">#0CCBD7</color>
+
+    <color name="light_text">#BFEFEFEF</color>
+    <color name="dark_text">#EFEFEF</color>
+
+    <color name="window_background">#1F2933</color>
+    <color name="status_bar_color">#1B242C</color>
+    <color name="toolbar_color">#1D2933</color>
+    <color name="light_button_background">#400CCBD7</color>
+
+    <color name="fab_color">#0CCBD7</color>
+    <color name="grey_background">#293643</color>
+    <color name="error_color">#FF8080</color>
+
+    <color name="card_color">#293643</color>
+    <color name="text_input_layout">#40EFEFEF</color>
+
+    <bool name="status_icon_color">false</bool>
+</resources>
